@@ -1,0 +1,14 @@
+{
+  "name": "text-db",
+  "version": "1.0.0",
+  "description": "- jsonFile.js : to load a json file into an object .data, modify and .save() it - csvFile.js : to load a csv file into an object .data, modify and .save() it",
+  "main": "JsonFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "papaparse": "^4.4.0"
+  }
+}
